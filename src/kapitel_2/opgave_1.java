@@ -9,6 +9,6 @@ public class opgave_1 {
         double mile = Mile.nextDouble();
         double kilometers;
         kilometers = mile * 1.6;
-        System.out.println(mile + " miles is " + kilometers + " kilometers");
+        System.out.println(mile + " miles is " + kilometers + " kilometers.");
     }
 }
